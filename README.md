@@ -14,3 +14,6 @@ v1.1
 添加了悬浮按钮，作用是回到网页顶部。
 
 添加了网页加载的提示消息和网页加载完成的提示消息。
+
+V1.2
+添加网站http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/tutorial1.html
